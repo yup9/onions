@@ -11,7 +11,7 @@
 
 #### remote debug
 - [debug webview](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/webviews)
--[debug IOS webview](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
+- [debug IOS webview](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
 
 #### 微信小程序
 - [资源汇总](https://github.com/Aufree/awesome-wechat-weapp )
