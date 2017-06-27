@@ -1,14 +1,14 @@
 # onions
 
-### collections
+#### collections
 - [Awesome List](https://github.com/sindresorhus/awesome)
 - [Frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-### css
+#### css
 - [CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md)
 - [Writing efficient css](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS)
 
-### Javascript
+#### Javascript
 - [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 
 #### ES6
