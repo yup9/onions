@@ -31,6 +31,8 @@ function foo () {
   console.log(z);
 }
 
+foo();
+
 (function() {
   var z = 20;
   foo();
@@ -71,22 +73,25 @@ var Person = function(name, age) {
 var lilei = Person('lilei', 19);
 
 
-
-//
 var wrapElements = function(a) {
   var results = [];
-  for (var i = 0, lens = a.length; i < a; i++) {
+  for (var i = 0, lens = a.length; i < lens; i++) {
     results[i] = function () {
+      // console.log(i);
       return a[i];
     }
   }
+  return results
 }
 
 var elements = wrapElements(['a', 'b', 'c', 'd']);
 var foo = elements[0];
 foo();
+
 /* 
 输出是？为什么？
+undefined, 因为当foo执行时， 已经结束循环i = a.length, 
+a[4]为undefined;
 */
 
 
