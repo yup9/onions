@@ -13,7 +13,7 @@
 - [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 - [what is event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 - [event propagation mode](https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
--[JavaScript’s this](http://2ality.com/2014/05/this.html)
+- [JavaScript’s this](http://2ality.com/2014/05/this.html)
 - [Exploring ES6](http://exploringjs.com/es6/)
 - [Exploring es2016 and es2017](http://exploringjs.com/es2016-es2017/index.html)
 - [Es5](http://speakingjs.com/es5/)
