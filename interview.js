@@ -77,7 +77,7 @@ var wrapElements = function(a) {
   var results = [];
   for (var i = 0, lens = a.length; i < lens; i++) {
     results[i] = function () {
-      // console.log(i);
+      console.log(i);
       return a[i];
     }
   }
@@ -92,6 +92,22 @@ foo();
 输出是？为什么？
 undefined, 因为当foo执行时， 已经结束循环i = a.length, 
 a[4]为undefined;
+
+
+如何修改可达到预期？
+var wrapElements = function(a) {
+  var results = [];
+  for (var i = 0, lens = a.length; i < lens; i++) {
+    results[i] = (function (index) {
+      return function() {
+        console.log(i);
+        return a[index];
+      }
+    }(i))
+  }
+  return results
+}
+
 */
 
 
