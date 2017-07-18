@@ -7,9 +7,13 @@
 #### css
 - [CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md)
 - [Writing efficient css](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS)
+- [understanding viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
 #### Javascript
 - [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
+- [what is event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+- [event propagation mode](https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
+-[JavaScript’s this](http://2ality.com/2014/05/this.html)
 
 #### ES6
 - [Exploring ES6](http://exploringjs.com/es6/)
@@ -36,5 +40,8 @@
 #### 微信
 - [小程序](https://github.com/Aufree/awesome-wechat-weapp )
 - [调试工具](http://blog.qqbrowser.cc/ru-he-shou-dong-kao-bei-tbs-apk/)
+
+## 算法相关
+-[动态规划](https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92#.E6.96.90.E6.B3.A2.E9.82.A3.E5.A5.91.E6.95.B0.E5.88.97.EF.BC.88Fibonacci_polynomial.EF.BC.89)
 
 
