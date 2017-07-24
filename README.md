@@ -1,27 +1,28 @@
 # onions
 
-#### collections
+### collections
 - [Awesome List](https://github.com/sindresorhus/awesome)
 - [Frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-#### css
+### css
 - [CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md)
 - [Writing efficient css](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS)
 - [understanding viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
-#### Javascript
+### Javascript
 
 ##### online books
 - [Exploring ES6](http://exploringjs.com/es6/)
 - [Exploring es2016 and es2017](http://exploringjs.com/es2016-es2017/index.html)
 - [Es5](http://speakingjs.com/es5/)
 
-##### language details
+##### language feature
 - [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 - [what is event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 - [event propagation mode](https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
 - [JavaScript’s this](http://2ality.com/2014/05/this.html)
-- [ function hoisting]()
+- [Variable and Function Hoisting in ES2015](https://bitsofco.de/variable-and-function-hoisting-in-es2015/)
+- 
 
 
 #### React
@@ -48,7 +49,6 @@
 
 ## 算法相关
 - [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-- [动态规划](https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92#.E6.96.90.E6.B3.A2.E9.82.A3.E5.A5.91.E6.95.B0.E5.88.97.EF.BC.88Fibonacci_polynomial.EF.BC.89)
 
 
 
