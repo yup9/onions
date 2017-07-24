@@ -1,5 +1,3 @@
-# onions
-
 ### collections
 - [Awesome List](https://github.com/sindresorhus/awesome)
 - [Frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -25,29 +23,29 @@
 - 
 
 
-#### React
+### React
 - [React Bits](https://github.com/vasanthk/react-bits)
 - [Awesome React components](https://github.com/brillout/awesome-react-components)
 
-#### webpack
+### webpack
 - [optimization](https://github.com/webpack/docs/wiki/optimization)
 
-#### 代码规范
+### 代码规范
 - [Clean code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 - [Standard](http://standardjs.com/rules.html)
 - [Best practice](https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md)
 
-#### Remote debug
+### Remote debug
 - [Debug webview](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/webviews)
 - [Debug IOS webview](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
 - [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/)
 
-#### 微信
+### 微信
 - [小程序](https://github.com/Aufree/awesome-wechat-weapp )
 - [调试工具](http://blog.qqbrowser.cc/ru-he-shou-dong-kao-bei-tbs-apk/)
 
-## 算法相关
+### 算法相关
 - [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
 
