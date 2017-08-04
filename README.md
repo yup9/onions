@@ -20,7 +20,9 @@
 - [event propagation mode](https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
 - [JavaScript’s this](http://2ality.com/2014/05/this.html)
 - [Variable and Function Hoisting in ES2015](https://bitsofco.de/variable-and-function-hoisting-in-es2015/)
-- 
+- [new Function()](https://davidwalsh.name/new-function)
+- [modular javascript](https://addyosmani.com/writing-modular-js/)
+- [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 
 
 ### React
@@ -30,7 +32,7 @@
 ### webpack
 - [optimization](https://github.com/webpack/docs/wiki/optimization)
 
-### 代码规范
+### Code standards
 - [Clean code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 - [Standard](http://standardjs.com/rules.html)
@@ -40,6 +42,10 @@
 - [Debug webview](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/webviews)
 - [Debug IOS webview](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
 - [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/)
+
+### git 
+- [git branch model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [git flow](https://github.com/nvie/gitflow)
 
 ### 微信
 - [小程序](https://github.com/Aufree/awesome-wechat-weapp )
